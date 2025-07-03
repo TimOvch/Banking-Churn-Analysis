@@ -48,4 +48,4 @@
 ## 📤 Результаты
 
 С результатами анализа можно ознакомиться в презентации `reports/Banking Churn Analysis Report.pptx.pdf`.
-Интерактивный дашборт можно найти по [ссылке](https://public.tableau.com/app/profile/timophey.ovchinnikov/viz/BankingChurnDashboard/Dashboard1?publish=yes) или открыв файл `reports/BankingChurnDashboard.twbx`
+Интерактивный дашборд можно найти по [ссылке](https://public.tableau.com/app/profile/timophey.ovchinnikov/viz/BankingChurnDashboard/Dashboard1?publish=yes) или открыв файл `reports/BankingChurnDashboard.twbx`
